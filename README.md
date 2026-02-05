@@ -17,7 +17,7 @@ Electrical Engineering Student ⚡ at NIT Raipur | Full-Stack Developer | CP Ent
 - 🌱 <samp>Currently building projects in Full-Stack Development integrated with AI/ML</samp>  
 - 🤔 <samp>Continuously improving problem-solving skills, code optimization, and system thinking</samp>  
 - ⚡ <samp>Fun fact: Debugging bugs feels more rewarding than writing fresh code 😄</samp>  
-- 📫 <samp>Reach me at: <b>harshpatel15505@email.com</b></samp>  
+- 📫 <samp>Reach me at: <b>harshpatel15505@gmail.com</b></samp>  
 
 ---
 
