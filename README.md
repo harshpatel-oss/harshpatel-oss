@@ -2,25 +2,28 @@
   <img src="https://komarev.com/ghpvc/?username=harshpatel&label=Profile%20views&color=0e75b6&style=flat" alt="harshpatel" />
 </p>
 
-<h1 align="center">Hey Everyone! 👋 I'm Harsh Patel</h1>
+<h1 align="center">Hi 👋 I'm Harsh Patel</h1>
+
 <h3 align="center">
-Electrical Engineering Student ⚡ at NIT Raipur | Full-Stack Developer | CP Enthusiast
+Electrical Engineering Student at NIT Raipur | Software Developer | Data Analyst | Competitive Programmer
 </h3>
 
 ---
 
-### 👋 About Me
+## 👨‍💻 About Me
 
-- 👨‍🎓 <samp>B.Tech Electrical Engineering student at National Institute of Technology (NIT) Raipur</samp>  
-- 🔭 <samp>Strong interest in Competitive Programming and Full-Stack Development</samp>  
-- 💬 <samp>Ask me about C++ / DSA / Competitive Programming / Full-Stack / EE fundamentals</samp>  
-- 🌱 <samp>Currently building projects in Full-Stack Development integrated with AI/ML</samp>  
-- 🤔 <samp>Continuously improving problem-solving skills, code optimization, and system thinking</samp>  
-- ⚡ <samp>Fun fact: Debugging bugs feels more rewarding than writing fresh code 😄</samp>  
-- 📫 <samp>Reach me at: <b>harshpatel15505@gmail.com</b></samp>  
+- 🎓 B.Tech in Electrical Engineering at **National Institute of Technology (NIT) Raipur**
+- 💻 Passionate about **Software Development**, building scalable applications and solving real-world engineering problems.
+- 📊 Passionate about **Data Analytics**, leveraging data to uncover insights and drive informed business decisions.
+- 🚀 Skilled in **C++, JavaScript, React, Node.js, Express.js, MongoDB, SQL, Python, Excel, Power BI, DAX, and Git**.
+- 🧠 Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Statistics, and Data Visualization**.
+- 📈 Enjoy solving analytical problems, designing intuitive dashboards, optimizing SQL queries, and developing end-to-end applications.
+- 🌱 Currently exploring **AI-powered applications, and advanced analytics**.
+- 💬 Ask me about **C++, DSA, Full-Stack Development, SQL, Python, Power BI, Excel, and Data Analytics**.
+- ⚡ Fun fact: I enjoy solving problems—whether it's optimizing code or discovering insights hidden in data.
+- 📫 Reach me at **harshpatel15505@gmail.com**
 
 ---
-
 
 ### 💻 Connect with me directly via terminal
 
